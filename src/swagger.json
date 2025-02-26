@@ -1,0 +1,216 @@
+{
+	"openapi": "3.0.0",
+	"info": {
+		"title": "Rural Producers API",
+		"description": "Essa API tem como objetivo fazer o gerenciamento de produtores rurais",
+		"termsOfService": "",
+		"contact": {
+			"email": "viniciustrajanobs@gmail.com"
+		},
+		"version": "1.0.0"
+	},
+	"servers": [
+		{
+			"url": "http://localhost:3000/api",
+			"description": "API de test"
+		}
+	],
+	"paths": {
+		"/users": {
+			"post": {
+				"summary": "Cadastro de Usuário",
+				"description": "Rota responsável pelo cadastro de usuários na aplicação",
+				"tags": ["Users"],
+				"requestBody": {
+					"content": {
+						"application/json": {
+							"schema": {
+								"$ref": "#/components/schemas/User"
+							},
+							"examples": {
+								"user": {
+									"value": {
+										"name": "Bob",
+										"email": "bob01@gmail.com",
+										"password": "bob123"
+									}
+								}
+							}
+						}
+					}
+				},
+				"responses": {
+					"201": {
+						"description": "Created"
+					},
+					"400": {
+						"description": "Email is already in use!"
+					}
+				}
+			}
+		},
+		"/login": {
+			"post": {
+				"summary": "Login de usuário",
+				"description": "Rota responsável para efetuar o login",
+				"tags": ["Users"],
+				"requestBody": {
+					"content": {
+						"application/json": {
+							"schema": {
+								"$ref": "#/components/schemas/Login"
+							},
+							"examples": {
+								"login": {
+									"value": {
+										"email": "teste@gmail.com",
+										"password": "teste123"
+									}
+								}
+							}
+						}
+					}
+				},
+				"responses": {
+					"200": {
+						"description": "OK"
+					},
+					"400": {
+						"description": "Invalid Password"
+					}
+				}
+			}
+		},
+		"/producers": {
+			"post": {
+				"summary": "Criando um Produtor",
+				"security": [
+					{
+						"bearerAuth": []
+					}
+				],
+				"description": "Rota responsável pelo cadastro de Produtores",
+				"tags": ["Producers"],
+				"requestBody": {
+					"content": {
+						"application/json": {
+							"schema": {
+								"$ref": "#/components/schemas/Producer"
+							}
+						}
+					}
+				},
+				"responses": {
+					"201": {
+						"description": "Created"
+					},
+					"401": {
+						"description": "Unauthorized"
+					}
+				}
+			}
+		},
+		"/producers/:id": {
+			"put": {
+				"summary": "Atualizando Produtor",
+				"security": [
+					{
+						"bearerAuth": []
+					}
+				],
+				"description": "Rota responsável por atualizar um determinado produtor",
+				"tags": ["Producers"]
+			}
+		}
+	},
+	"components": {
+		"securitySchemes": {
+			"bearerAuth": {
+				"type": "http",
+				"scheme": "bearer",
+				"bearerFormat": "JWT"
+			}
+		},
+		"schemas": {
+			"User": {
+				"type": "object",
+				"properties": {
+					"name": {
+						"type": "string"
+					},
+					"email": {
+						"type": "string"
+					},
+					"password": {
+						"type": "string"
+					}
+				}
+			},
+			"Login": {
+				"type": "object",
+				"properties": {
+					"email": {
+						"type": "string"
+					},
+					"password": {
+						"type": "string"
+					}
+				}
+			},
+			"Producer": {
+				"type": "object",
+				"properties": {
+					"document": {
+						"type": "string"
+					},
+					"name": {
+						"type": "string"
+					},
+					"farms": {
+						"type": "array",
+						"items": {
+							"type": "object",
+							"properties": {
+								"name": {
+									"type": "string"
+								},
+								"city": {
+									"type": "string"
+								},
+								"state": {
+									"type": "string"
+								},
+								"totalArea": {
+									"type": "number",
+									"example": 0
+								},
+								"arableArea": {
+									"type": "number",
+									"example": 0
+								},
+								"vegetationArea": {
+									"type": "number",
+									"example": 0
+								},
+								"crops": {
+									"type": "array",
+									"items": {
+										"type": "object",
+										"properties": {
+											"name": {
+												"type": "string"
+											},
+											"harvest": {
+												"type": "string"
+											}
+										}
+									}
+								}
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+}

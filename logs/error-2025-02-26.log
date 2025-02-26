@@ -12,3 +12,29 @@
 2025-02-26 15:39:08 [[31merror[39m]: Error in request: relation "users" does not exist
 2025-02-26 16:07:48 [[31merror[39m]: Error in request: Email is already in use!
 2025-02-26 17:23:05 [[31merror[39m]: Error in request: User not found!
+2025-02-26 19:10:04 [[31merror[39m]: Error in request: Email is already in use!
+2025-02-26 19:10:35 [[31merror[39m]: Error in request: Email is already in use!
+2025-02-26 19:11:35 [[31merror[39m]: Error in request: Email is already in use!
+2025-02-26 19:16:02 [[31merror[39m]: Error in request: Email is already in use!
+2025-02-26 19:17:24 [[31merror[39m]: Error in request: Email is already in use!
+2025-02-26 19:17:52 [[31merror[39m]: Error in request: Email is already in use!
+2025-02-26 19:18:05 [[31merror[39m]: Error in request: Email is already in use!
+2025-02-26 19:18:09 [[31merror[39m]: Error in request: Email is already in use!
+2025-02-26 19:18:12 [[31merror[39m]: Error in request: Email is already in use!
+2025-02-26 19:18:12 [[31merror[39m]: Error in request: Email is already in use!
+2025-02-26 19:18:15 [[31merror[39m]: Error in request: Email is already in use!
+2025-02-26 19:18:20 [[31merror[39m]: Error in request: Email is already in use!
+2025-02-26 19:18:21 [[31merror[39m]: Error in request: Email is already in use!
+2025-02-26 19:18:21 [[31merror[39m]: Error in request: Email is already in use!
+2025-02-26 19:18:22 [[31merror[39m]: Error in request: Email is already in use!
+2025-02-26 19:18:22 [[31merror[39m]: Error in request: Email is already in use!
+2025-02-26 19:18:22 [[31merror[39m]: Error in request: Email is already in use!
+2025-02-26 19:34:09 [[31merror[39m]: Error in request: Invalid password!
+2025-02-26 19:34:53 [[31merror[39m]: Error in request: User not found!
+2025-02-26 19:36:01 [[31merror[39m]: Error in request: User not found!
+2025-02-26 19:56:24 [[31merror[39m]: Error in request: jwt expired
+2025-02-26 19:57:30 [[31merror[39m]: Error in request: invalid signature
+2025-02-26 19:58:06 [[31merror[39m]: Error in request: invalid signature
+2025-02-26 19:59:05 [[31merror[39m]: Error in request: invalid signature
+2025-02-26 20:06:14 [[31merror[39m]: Error in request: 4 errors occurred
+2025-02-26 20:15:09 [[31merror[39m]: Error in request: jwt expired
