@@ -1,0 +1,13 @@
+2025-02-26 15:18:45 [[31merror[39m]: Error in request: relation "user" does not exist
+2025-02-26 15:20:02 [[31merror[39m]: Error in request: relation "user" does not exist
+2025-02-26 15:20:03 [[31merror[39m]: Error in request: relation "user" does not exist
+2025-02-26 15:20:04 [[31merror[39m]: Error in request: relation "user" does not exist
+2025-02-26 15:21:02 [[31merror[39m]: Error in request: relation "user" does not exist
+2025-02-26 15:21:03 [[31merror[39m]: Error in request: relation "user" does not exist
+2025-02-26 15:22:21 [[31merror[39m]: Error in request: Email já está em uso
+2025-02-26 15:25:45 [[31merror[39m]: Error in request: duplicate key value violates unique constraint "UQ_65c993224b1827bdbb49113bd11"
+2025-02-26 15:27:21 [[31merror[39m]: Error in request: Usuário não encontrado
+2025-02-26 15:36:25 [[31merror[39m]: Error in request: Cannot read properties of undefined (reading 'id')
+2025-02-26 15:37:28 [[31merror[39m]: Error in request: Cannot read properties of undefined (reading 'id')
+2025-02-26 15:39:08 [[31merror[39m]: Error in request: relation "users" does not exist
+2025-02-26 16:07:48 [[31merror[39m]: Error in request: Email is already in use!

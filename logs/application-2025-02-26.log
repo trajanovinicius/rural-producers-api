@@ -1,0 +1,126 @@
+2025-02-26 10:44:30 [[32minfo[39m]: ProducerController initialized
+2025-02-26 10:44:30 [[32minfo[39m]: ProducerController initialized
+2025-02-26 10:44:41 [[32minfo[39m]: Creating producer with document: 02034149696
+2025-02-26 10:44:41 [[32minfo[39m]: Producer created successfully with ID: 20
+2025-02-26 10:44:52 [[32minfo[39m]: Deleting producer with ID: 20
+2025-02-26 10:44:52 [[32minfo[39m]: Producer deleted successfully with ID: 20
+2025-02-26 10:53:13 [[32minfo[39m]: ProducerController initialized
+2025-02-26 10:53:13 [[32minfo[39m]: ProducerController initialized
+2025-02-26 10:53:20 [[32minfo[39m]: Creating producer with document: 02034149696
+2025-02-26 10:53:21 [[32minfo[39m]: Producer created successfully with ID: 21
+2025-02-26 10:53:24 [[32minfo[39m]: Deleting producer with ID: 21
+2025-02-26 10:53:24 [[32minfo[39m]: Producer deleted successfully with ID: 21
+2025-02-26 11:04:36 [[32minfo[39m]: ProducerController initialized
+2025-02-26 11:04:36 [[32minfo[39m]: ProducerController initialized
+2025-02-26 11:07:35 [[32minfo[39m]: ProducerController initialized
+2025-02-26 11:07:35 [[32minfo[39m]: ProducerController initialized
+2025-02-26 11:08:05 [[32minfo[39m]: ProducerController initialized
+2025-02-26 11:08:05 [[32minfo[39m]: ProducerController initialized
+2025-02-26 11:09:19 [[32minfo[39m]: Fetching dashboard data
+2025-02-26 11:09:19 [[32minfo[39m]: Dashboard data fetched successfully
+2025-02-26 11:09:49 [[32minfo[39m]: Creating producer with document: 02034149696
+2025-02-26 11:09:49 [[32minfo[39m]: Producer created successfully with ID: 22
+2025-02-26 11:12:24 [[32minfo[39m]: ProducerController initialized
+2025-02-26 11:12:24 [[32minfo[39m]: ProducerController initialized
+2025-02-26 11:14:46 [[32minfo[39m]: ProducerController initialized
+2025-02-26 11:14:46 [[32minfo[39m]: ProducerController initialized
+2025-02-26 11:15:20 [[32minfo[39m]: ProducerController initialized
+2025-02-26 11:15:20 [[32minfo[39m]: ProducerController initialized
+2025-02-26 11:19:04 [[32minfo[39m]: ProducerController initialized
+2025-02-26 11:19:04 [[32minfo[39m]: ProducerController initialized
+2025-02-26 11:19:07 [[32minfo[39m]: Creating producer with document: 02034149696
+2025-02-26 11:19:07 [[32minfo[39m]: Producer created successfully with ID: 23
+2025-02-26 11:19:29 [[32minfo[39m]: ProducerController initialized
+2025-02-26 11:19:29 [[32minfo[39m]: ProducerController initialized
+2025-02-26 15:18:45 [[31merror[39m]: Error in request: relation "user" does not exist
+2025-02-26 15:20:02 [[31merror[39m]: Error in request: relation "user" does not exist
+2025-02-26 15:20:03 [[31merror[39m]: Error in request: relation "user" does not exist
+2025-02-26 15:20:04 [[31merror[39m]: Error in request: relation "user" does not exist
+2025-02-26 15:21:02 [[31merror[39m]: Error in request: relation "user" does not exist
+2025-02-26 15:21:03 [[31merror[39m]: Error in request: relation "user" does not exist
+2025-02-26 15:22:21 [[31merror[39m]: Error in request: Email já está em uso
+2025-02-26 15:25:45 [[31merror[39m]: Error in request: duplicate key value violates unique constraint "UQ_65c993224b1827bdbb49113bd11"
+2025-02-26 15:27:21 [[31merror[39m]: Error in request: Usuário não encontrado
+2025-02-26 15:36:25 [[31merror[39m]: Error in request: Cannot read properties of undefined (reading 'id')
+2025-02-26 15:37:28 [[31merror[39m]: Error in request: Cannot read properties of undefined (reading 'id')
+2025-02-26 15:39:08 [[31merror[39m]: Error in request: relation "users" does not exist
+2025-02-26 15:42:38 [[32minfo[39m]: Database connected
+2025-02-26 15:46:29 [[32minfo[39m]: Database connected!
+2025-02-26 15:46:29 [[32minfo[39m]: Container initialized!
+2025-02-26 15:46:34 [[32minfo[39m]: Producer created successfully with ID: 5 by user ID: 1
+2025-02-26 15:47:21 [[32minfo[39m]: Database connected!
+2025-02-26 15:47:21 [[32minfo[39m]: Container initialized!
+2025-02-26 15:47:21 [[32minfo[39m]: Server running on port 3000
+2025-02-26 15:48:02 [[32minfo[39m]: Producer created successfully with ID: 6 by user ID: 1
+2025-02-26 15:52:38 [[32minfo[39m]: Database connected!
+2025-02-26 15:52:38 [[32minfo[39m]: Container initialized!
+2025-02-26 15:52:38 [[32minfo[39m]: Server running on port 3000
+2025-02-26 16:03:10 [[32minfo[39m]: Database connected!
+2025-02-26 16:03:10 [[32minfo[39m]: Container initialized!
+2025-02-26 16:03:10 [[32minfo[39m]: Server running on port 3000
+2025-02-26 16:05:58 [[32minfo[39m]: Producer created successfully with ID: 1 by user ID: 1
+2025-02-26 16:05:58 [[32minfo[39m]: Producer updated successfully with ID: 1 by user ID: 1
+2025-02-26 16:05:58 [[32minfo[39m]: Producer deleted successfully with ID: 1 by user ID: 1
+2025-02-26 16:07:17 [[32minfo[39m]: Producer created successfully with ID: 1 by user ID: 1
+2025-02-26 16:07:17 [[32minfo[39m]: Producer updated successfully with ID: 1 by user ID: 1
+2025-02-26 16:07:17 [[32minfo[39m]: Producer deleted successfully with ID: 1 by user ID: 1
+2025-02-26 16:07:45 [[32minfo[39m]: Database connected!
+2025-02-26 16:07:45 [[32minfo[39m]: Container initialized!
+2025-02-26 16:07:45 [[32minfo[39m]: Server running on port 3000
+2025-02-26 16:07:48 [[31merror[39m]: Error in request: Email is already in use!
+2025-02-26 16:07:53 [[32minfo[39m]: Producer created successfully with ID: 7 by user ID: 1
+2025-02-26 16:08:04 [[32minfo[39m]: Producer deleted successfully with ID: 7 by user ID: 1
+2025-02-26 17:02:06 [[32minfo[39m]: Producer created successfully with ID: 1 by user ID: 1
+2025-02-26 17:02:06 [[32minfo[39m]: Producer updated successfully with ID: 1 by user ID: 1
+2025-02-26 17:02:06 [[32minfo[39m]: Producer deleted successfully with ID: 1 by user ID: 1
+2025-02-26 17:02:13 [[32minfo[39m]: Producer created successfully with ID: 1 by user ID: 1
+2025-02-26 17:02:13 [[32minfo[39m]: Producer updated successfully with ID: 1 by user ID: 1
+2025-02-26 17:02:13 [[32minfo[39m]: Producer deleted successfully with ID: 1 by user ID: 1
+2025-02-26 17:02:22 [[32minfo[39m]: Producer created successfully with ID: 1 by user ID: 1
+2025-02-26 17:02:22 [[32minfo[39m]: Producer updated successfully with ID: 1 by user ID: 1
+2025-02-26 17:02:22 [[32minfo[39m]: Producer deleted successfully with ID: 1 by user ID: 1
+2025-02-26 17:02:27 [[32minfo[39m]: Producer created successfully with ID: 1 by user ID: 1
+2025-02-26 17:02:27 [[32minfo[39m]: Producer updated successfully with ID: 1 by user ID: 1
+2025-02-26 17:02:27 [[32minfo[39m]: Producer deleted successfully with ID: 1 by user ID: 1
+2025-02-26 17:02:31 [[32minfo[39m]: Producer created successfully with ID: 1 by user ID: 1
+2025-02-26 17:02:31 [[32minfo[39m]: Producer updated successfully with ID: 1 by user ID: 1
+2025-02-26 17:02:31 [[32minfo[39m]: Producer deleted successfully with ID: 1 by user ID: 1
+2025-02-26 17:02:43 [[32minfo[39m]: Producer created successfully with ID: 1 by user ID: 1
+2025-02-26 17:02:43 [[32minfo[39m]: Producer updated successfully with ID: 1 by user ID: 1
+2025-02-26 17:02:43 [[32minfo[39m]: Producer deleted successfully with ID: 1 by user ID: 1
+2025-02-26 17:02:50 [[32minfo[39m]: Producer created successfully with ID: 1 by user ID: 1
+2025-02-26 17:02:50 [[32minfo[39m]: Producer updated successfully with ID: 1 by user ID: 1
+2025-02-26 17:02:50 [[32minfo[39m]: Producer deleted successfully with ID: 1 by user ID: 1
+2025-02-26 17:03:01 [[32minfo[39m]: Producer created successfully with ID: 1 by user ID: 1
+2025-02-26 17:03:01 [[32minfo[39m]: Producer updated successfully with ID: 1 by user ID: 1
+2025-02-26 17:03:01 [[32minfo[39m]: Producer deleted successfully with ID: 1 by user ID: 1
+2025-02-26 17:03:04 [[32minfo[39m]: Producer created successfully with ID: 1 by user ID: 1
+2025-02-26 17:03:04 [[32minfo[39m]: Producer updated successfully with ID: 1 by user ID: 1
+2025-02-26 17:03:04 [[32minfo[39m]: Producer deleted successfully with ID: 1 by user ID: 1
+2025-02-26 17:03:10 [[32minfo[39m]: Producer created successfully with ID: 1 by user ID: 1
+2025-02-26 17:03:10 [[32minfo[39m]: Producer updated successfully with ID: 1 by user ID: 1
+2025-02-26 17:03:10 [[32minfo[39m]: Producer deleted successfully with ID: 1 by user ID: 1
+2025-02-26 17:03:14 [[32minfo[39m]: Producer created successfully with ID: 1 by user ID: 1
+2025-02-26 17:03:14 [[32minfo[39m]: Producer updated successfully with ID: 1 by user ID: 1
+2025-02-26 17:03:14 [[32minfo[39m]: Producer deleted successfully with ID: 1 by user ID: 1
+2025-02-26 17:03:18 [[32minfo[39m]: Producer created successfully with ID: 1 by user ID: 1
+2025-02-26 17:03:18 [[32minfo[39m]: Producer updated successfully with ID: 1 by user ID: 1
+2025-02-26 17:03:18 [[32minfo[39m]: Producer deleted successfully with ID: 1 by user ID: 1
+2025-02-26 17:03:23 [[32minfo[39m]: Producer created successfully with ID: 1 by user ID: 1
+2025-02-26 17:03:23 [[32minfo[39m]: Producer updated successfully with ID: 1 by user ID: 1
+2025-02-26 17:03:23 [[32minfo[39m]: Producer deleted successfully with ID: 1 by user ID: 1
+2025-02-26 17:03:43 [[32minfo[39m]: Producer created successfully with ID: 1 by user ID: 1
+2025-02-26 17:03:43 [[32minfo[39m]: Producer updated successfully with ID: 1 by user ID: 1
+2025-02-26 17:03:43 [[32minfo[39m]: Producer deleted successfully with ID: 1 by user ID: 1
+2025-02-26 17:04:07 [[32minfo[39m]: Producer created successfully with ID: 1 by user ID: 1
+2025-02-26 17:04:07 [[32minfo[39m]: Producer updated successfully with ID: 1 by user ID: 1
+2025-02-26 17:04:07 [[32minfo[39m]: Producer deleted successfully with ID: 1 by user ID: 1
+2025-02-26 17:04:11 [[32minfo[39m]: Producer created successfully with ID: 1 by user ID: 1
+2025-02-26 17:04:11 [[32minfo[39m]: Producer updated successfully with ID: 1 by user ID: 1
+2025-02-26 17:04:11 [[32minfo[39m]: Producer deleted successfully with ID: 1 by user ID: 1
+2025-02-26 17:04:16 [[32minfo[39m]: Producer created successfully with ID: 1 by user ID: 1
+2025-02-26 17:04:16 [[32minfo[39m]: Producer updated successfully with ID: 1 by user ID: 1
+2025-02-26 17:04:16 [[32minfo[39m]: Producer deleted successfully with ID: 1 by user ID: 1
+2025-02-26 17:04:37 [[32minfo[39m]: Producer created successfully with ID: 1 by user ID: 1
+2025-02-26 17:04:37 [[32minfo[39m]: Producer updated successfully with ID: 1 by user ID: 1
+2025-02-26 17:04:37 [[32minfo[39m]: Producer deleted successfully with ID: 1 by user ID: 1
