@@ -20,7 +20,7 @@ Siga os passos abaixo para configurar e executar a aplicação localmente:
 ### 1. Clone o repositório:
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/trajanovinicius/rural-producers-api
 cd rural-producers-api
 ```
 

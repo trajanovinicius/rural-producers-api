@@ -677,3 +677,12 @@
 2025-02-26 20:16:30 [[32minfo[39m]: Database connected!
 2025-02-26 20:16:30 [[32minfo[39m]: Container initialized!
 2025-02-26 20:16:30 [[32minfo[39m]: Server running on port 3000
+2025-02-26 20:52:40 [[32minfo[39m]: Producer created successfully with ID: 1 by user ID: 1
+2025-02-26 20:52:40 [[32minfo[39m]: Producer updated successfully with ID: 1 by user ID: 1
+2025-02-26 20:52:40 [[32minfo[39m]: Producer deleted successfully with ID: 1 by user ID: 1
+2025-02-26 20:55:13 [[32minfo[39m]: Producer created successfully with ID: 1 by user ID: 1
+2025-02-26 20:55:13 [[32minfo[39m]: Producer updated successfully with ID: 1 by user ID: 1
+2025-02-26 20:55:13 [[32minfo[39m]: Producer deleted successfully with ID: 1 by user ID: 1
+2025-02-26 20:56:09 [[32minfo[39m]: Producer created successfully with ID: 1 by user ID: 1
+2025-02-26 20:56:09 [[32minfo[39m]: Producer updated successfully with ID: 1 by user ID: 1
+2025-02-26 20:56:09 [[32minfo[39m]: Producer deleted successfully with ID: 1 by user ID: 1
