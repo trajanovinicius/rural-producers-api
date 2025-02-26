@@ -11,6 +11,7 @@ API para gerenciamento de produtores rurais com Repository Pattern, IoC e DI.
 - Docker
 - Jest
 - Yup
+- Winston
 
 ## Como Executar
 

@@ -11,3 +11,4 @@
 2025-02-26 15:37:28 [[31merror[39m]: Error in request: Cannot read properties of undefined (reading 'id')
 2025-02-26 15:39:08 [[31merror[39m]: Error in request: relation "users" does not exist
 2025-02-26 16:07:48 [[31merror[39m]: Error in request: Email is already in use!
+2025-02-26 17:23:05 [[31merror[39m]: Error in request: User not found!

@@ -124,3 +124,14 @@
 2025-02-26 17:04:37 [[32minfo[39m]: Producer created successfully with ID: 1 by user ID: 1
 2025-02-26 17:04:37 [[32minfo[39m]: Producer updated successfully with ID: 1 by user ID: 1
 2025-02-26 17:04:37 [[32minfo[39m]: Producer deleted successfully with ID: 1 by user ID: 1
+2025-02-26 17:18:45 [[32minfo[39m]: Database connected!
+2025-02-26 17:18:45 [[32minfo[39m]: Container initialized!
+2025-02-26 17:18:45 [[32minfo[39m]: Server running on port 3000
+2025-02-26 17:19:06 [[32minfo[39m]: Producer created successfully with ID: 1 by user ID: 1
+2025-02-26 17:19:06 [[32minfo[39m]: Producer updated successfully with ID: 1 by user ID: 1
+2025-02-26 17:19:06 [[32minfo[39m]: Producer deleted successfully with ID: 1 by user ID: 1
+2025-02-26 17:19:17 [[32minfo[39m]: Database connected!
+2025-02-26 17:19:17 [[32minfo[39m]: Container initialized!
+2025-02-26 17:19:17 [[32minfo[39m]: Server running on port 3000
+2025-02-26 17:23:05 [[31merror[39m]: Error in request: User not found!
+2025-02-26 17:27:22 [[32minfo[39m]: Producer created successfully with ID: 1 by user ID: 1
