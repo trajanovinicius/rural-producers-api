@@ -130,3 +130,9 @@
 2025-02-27 14:12:36 [[32minfo[39m]: Container initialized!
 2025-02-27 14:12:36 [[32minfo[39m]: Server running on port 3000
 2025-02-27 14:13:12 [[32minfo[39m]: Dashboard data retrieved successfully
+2025-02-27 15:18:14 [[32minfo[39m]: Database connected!
+2025-02-27 15:18:14 [[32minfo[39m]: Container initialized!
+2025-02-27 15:18:14 [[32minfo[39m]: Server running on port 3000
+2025-02-27 15:19:27 [[32minfo[39m]: Producer created successfully with ID: 1 by user ID: 1
+2025-02-27 15:19:27 [[32minfo[39m]: Producer updated successfully with ID: 1 by user ID: 1
+2025-02-27 15:19:27 [[32minfo[39m]: Producer deleted successfully with ID: 1 by user ID: 1
