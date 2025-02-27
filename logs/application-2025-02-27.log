@@ -1,0 +1,132 @@
+2025-02-27 12:17:42 [[32minfo[39m]: Database connected!
+2025-02-27 12:17:42 [[32minfo[39m]: Container initialized!
+2025-02-27 12:17:42 [[32minfo[39m]: Server running on port 3000
+2025-02-27 12:41:48 [[32minfo[39m]: Database connected!
+2025-02-27 12:41:48 [[32minfo[39m]: Container initialized!
+2025-02-27 12:41:48 [[32minfo[39m]: Server running on port 3000
+2025-02-27 12:44:33 [[32minfo[39m]: Database connected!
+2025-02-27 12:44:33 [[32minfo[39m]: Container initialized!
+2025-02-27 12:44:33 [[32minfo[39m]: Server running on port 3000
+2025-02-27 12:47:20 [[32minfo[39m]: Database connected!
+2025-02-27 12:47:20 [[32minfo[39m]: Container initialized!
+2025-02-27 12:47:20 [[32minfo[39m]: Server running on port 3000
+2025-02-27 12:47:36 [[31merror[39m]: Error in request: jwt expired
+2025-02-27 12:48:00 [[32minfo[39m]: Producer updated successfully with ID: 4 by user ID: 1
+2025-02-27 12:48:48 [[32minfo[39m]: Database connected!
+2025-02-27 12:48:48 [[32minfo[39m]: Container initialized!
+2025-02-27 12:48:48 [[32minfo[39m]: Server running on port 3000
+2025-02-27 12:49:03 [[32minfo[39m]: Producer updated successfully with ID: 4 by user ID: 1
+2025-02-27 12:49:40 [[31merror[39m]: Error in request: invalid input syntax for type integer: "NaN"
+2025-02-27 12:50:54 [[31merror[39m]: Error in request: invalid input syntax for type integer: "NaN"
+2025-02-27 12:51:06 [[32minfo[39m]: Producer updated successfully with ID: 4 by user ID: 1
+2025-02-27 12:51:13 [[32minfo[39m]: Producer updated successfully with ID: 4 by user ID: 1
+2025-02-27 12:51:48 [[31merror[39m]: Error in request: invalid input syntax for type integer: "NaN"
+2025-02-27 12:52:32 [[31merror[39m]: Error in request: User not found!
+2025-02-27 12:53:31 [[32minfo[39m]: Producer created successfully with ID: 7 by user ID: 1
+2025-02-27 12:53:44 [[31merror[39m]: Error in request: invalid input syntax for type integer: "NaN"
+2025-02-27 13:02:03 [[32minfo[39m]: Database connected!
+2025-02-27 13:02:03 [[32minfo[39m]: Container initialized!
+2025-02-27 13:02:03 [[32minfo[39m]: Server running on port 3000
+2025-02-27 13:02:05 [[31merror[39m]: Error in request: invalid input syntax for type integer: "NaN"
+2025-02-27 13:02:10 [[31merror[39m]: Error in request: invalid input syntax for type integer: "NaN"
+2025-02-27 13:03:47 [[32minfo[39m]: Database connected!
+2025-02-27 13:03:47 [[32minfo[39m]: Container initialized!
+2025-02-27 13:03:47 [[32minfo[39m]: Server running on port 3000
+2025-02-27 13:03:48 [[31merror[39m]: Error in request: invalid input syntax for type integer: "NaN"
+2025-02-27 13:09:50 [[32minfo[39m]: Database connected!
+2025-02-27 13:09:50 [[32minfo[39m]: Container initialized!
+2025-02-27 13:09:50 [[32minfo[39m]: Server running on port 3000
+2025-02-27 13:12:16 [[32minfo[39m]: Database connected!
+2025-02-27 13:12:16 [[32minfo[39m]: Container initialized!
+2025-02-27 13:12:16 [[32minfo[39m]: Server running on port 3000
+2025-02-27 13:12:57 [[31merror[39m]: Error in request: User not found!
+2025-02-27 13:14:59 [[32minfo[39m]: Database connected!
+2025-02-27 13:14:59 [[32minfo[39m]: Container initialized!
+2025-02-27 13:14:59 [[32minfo[39m]: Server running on port 3000
+2025-02-27 13:16:46 [[32minfo[39m]: Database connected!
+2025-02-27 13:16:46 [[32minfo[39m]: Container initialized!
+2025-02-27 13:16:46 [[32minfo[39m]: Server running on port 3000
+2025-02-27 13:17:53 [[32minfo[39m]: Producer updated successfully with ID: 4 by user ID: 1
+2025-02-27 13:18:50 [[32minfo[39m]: Database connected!
+2025-02-27 13:18:50 [[32minfo[39m]: Container initialized!
+2025-02-27 13:18:50 [[32minfo[39m]: Server running on port 3000
+2025-02-27 13:23:35 [[32minfo[39m]: Database connected!
+2025-02-27 13:23:35 [[32minfo[39m]: Container initialized!
+2025-02-27 13:23:35 [[32minfo[39m]: Server running on port 3000
+2025-02-27 13:24:27 [[32minfo[39m]: Database connected!
+2025-02-27 13:24:27 [[32minfo[39m]: Container initialized!
+2025-02-27 13:24:27 [[32minfo[39m]: Server running on port 3000
+2025-02-27 13:26:44 [[32minfo[39m]: Database connected!
+2025-02-27 13:26:44 [[32minfo[39m]: Container initialized!
+2025-02-27 13:26:44 [[32minfo[39m]: Server running on port 3000
+2025-02-27 13:27:49 [[32minfo[39m]: Database connected!
+2025-02-27 13:27:49 [[32minfo[39m]: Container initialized!
+2025-02-27 13:27:49 [[32minfo[39m]: Server running on port 3000
+2025-02-27 13:31:20 [[32minfo[39m]: Database connected!
+2025-02-27 13:31:20 [[32minfo[39m]: Container initialized!
+2025-02-27 13:31:20 [[32minfo[39m]: Server running on port 3000
+2025-02-27 13:31:20 [[31merror[39m]: Error in request: jwt expired
+2025-02-27 13:31:34 [[32minfo[39m]: Producer deleted successfully with ID: 4 by user ID: 1
+2025-02-27 13:31:38 [[31merror[39m]: Error in request: Produtor não encontrado
+2025-02-27 13:33:01 [[31merror[39m]: Error in request: Produtor não encontrado
+2025-02-27 13:33:03 [[31merror[39m]: Error in request: invalid input syntax for type integer: "NaN"
+2025-02-27 13:33:07 [[31merror[39m]: Error in request: Produtor não encontrado
+2025-02-27 13:34:12 [[32minfo[39m]: Database connected!
+2025-02-27 13:34:12 [[32minfo[39m]: Container initialized!
+2025-02-27 13:34:12 [[32minfo[39m]: Server running on port 3000
+2025-02-27 13:34:19 [[31merror[39m]: Error in request: Produtor não encontrado
+2025-02-27 13:34:39 [[32minfo[39m]: Database connected!
+2025-02-27 13:34:39 [[32minfo[39m]: Container initialized!
+2025-02-27 13:34:39 [[32minfo[39m]: Server running on port 3000
+2025-02-27 13:37:45 [[32minfo[39m]: Database connected!
+2025-02-27 13:37:45 [[32minfo[39m]: Container initialized!
+2025-02-27 13:37:45 [[32minfo[39m]: Server running on port 3000
+2025-02-27 13:39:11 [[31merror[39m]: Error in request: Produtor não encontrado
+2025-02-27 13:39:29 [[32minfo[39m]: Database connected!
+2025-02-27 13:39:29 [[32minfo[39m]: Container initialized!
+2025-02-27 13:39:29 [[32minfo[39m]: Server running on port 3000
+2025-02-27 13:40:17 [[31merror[39m]: Error in request: Produtor não encontrado
+2025-02-27 13:40:29 [[31merror[39m]: Error in request: jwt expired
+2025-02-27 13:40:37 [[32minfo[39m]: Producer created successfully with ID: 8 by user ID: 1
+2025-02-27 13:40:42 [[32minfo[39m]: Producer deleted successfully with ID: 8 by user ID: 1
+2025-02-27 13:41:10 [[31merror[39m]: Error in request: Produtor não encontrado
+2025-02-27 13:41:19 [[32minfo[39m]: Producer created successfully with ID: 9 by user ID: 1
+2025-02-27 13:41:24 [[32minfo[39m]: Producer deleted successfully with ID: 9 by user ID: 1
+2025-02-27 14:03:17 [[32minfo[39m]: Database connected!
+2025-02-27 14:03:17 [[32minfo[39m]: Container initialized!
+2025-02-27 14:03:17 [[32minfo[39m]: Server running on port 3000
+2025-02-27 14:05:40 [[32minfo[39m]: Database connected!
+2025-02-27 14:05:40 [[32minfo[39m]: Container initialized!
+2025-02-27 14:05:40 [[32minfo[39m]: Server running on port 3000
+2025-02-27 14:06:47 [[32minfo[39m]: Database connected!
+2025-02-27 14:06:47 [[32minfo[39m]: Container initialized!
+2025-02-27 14:06:47 [[32minfo[39m]: Server running on port 3000
+2025-02-27 14:07:16 [[32minfo[39m]: Database connected!
+2025-02-27 14:07:16 [[32minfo[39m]: Container initialized!
+2025-02-27 14:07:16 [[32minfo[39m]: Server running on port 3000
+2025-02-27 14:09:03 [[32minfo[39m]: Database connected!
+2025-02-27 14:09:03 [[32minfo[39m]: Container initialized!
+2025-02-27 14:09:03 [[32minfo[39m]: Server running on port 3000
+2025-02-27 14:10:03 [[31merror[39m]: Error in request: jwt expired
+2025-02-27 14:10:20 [[32minfo[39m]: Dashboard data retrieved successfully
+2025-02-27 14:10:27 [[32minfo[39m]: Dashboard data retrieved successfully
+2025-02-27 14:10:41 [[32minfo[39m]: Dashboard data retrieved successfully
+2025-02-27 14:10:41 [[32minfo[39m]: Dashboard data retrieved successfully
+2025-02-27 14:10:45 [[32minfo[39m]: Dashboard data retrieved successfully
+2025-02-27 14:10:46 [[32minfo[39m]: Dashboard data retrieved successfully
+2025-02-27 14:11:54 [[32minfo[39m]: Dashboard data retrieved successfully
+2025-02-27 14:11:54 [[32minfo[39m]: Dashboard data retrieved successfully
+2025-02-27 14:11:55 [[32minfo[39m]: Dashboard data retrieved successfully
+2025-02-27 14:11:55 [[32minfo[39m]: Dashboard data retrieved successfully
+2025-02-27 14:11:55 [[32minfo[39m]: Dashboard data retrieved successfully
+2025-02-27 14:11:57 [[32minfo[39m]: Dashboard data retrieved successfully
+2025-02-27 14:11:58 [[32minfo[39m]: Dashboard data retrieved successfully
+2025-02-27 14:11:58 [[32minfo[39m]: Dashboard data retrieved successfully
+2025-02-27 14:12:00 [[32minfo[39m]: Dashboard data retrieved successfully
+2025-02-27 14:12:01 [[32minfo[39m]: Dashboard data retrieved successfully
+2025-02-27 14:12:01 [[32minfo[39m]: Dashboard data retrieved successfully
+2025-02-27 14:12:03 [[32minfo[39m]: Dashboard data retrieved successfully
+2025-02-27 14:12:36 [[32minfo[39m]: Database connected!
+2025-02-27 14:12:36 [[32minfo[39m]: Container initialized!
+2025-02-27 14:12:36 [[32minfo[39m]: Server running on port 3000
+2025-02-27 14:13:12 [[32minfo[39m]: Dashboard data retrieved successfully
