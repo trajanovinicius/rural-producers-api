@@ -110,7 +110,7 @@
 				}
 			}
 		},
-		"/producers/:id": {
+		"/producers/{id}": {
 			"put": {
 				"summary": "Atualizando Produtor",
 				"security": [
@@ -119,7 +119,88 @@
 					}
 				],
 				"description": "Rota responsável por atualizar um determinado produtor",
-				"tags": ["Producers"]
+				"tags": ["Producers"],
+				"parameters": [
+					{
+						"name": "id",
+						"in": "path",
+						"required": true,
+						"schema": {
+							"type": "integer",
+							"format": "int64",
+							"example": 123
+						},
+						"description": "ID do produtor (Deve ser um número inteiro positivo)"
+					}
+				],
+				"requestBody": {
+					"content": {
+						"application/json": {
+							"schema": {
+								"$ref": "#/components/schemas/Producer"
+							}
+						}
+					}
+				},
+				"responses": {
+					"200": {
+						"description": "OK"
+					},
+					"401": {
+						"description": "Unauthorized"
+					},
+					"406": {
+						"description": "invalid producer id"
+					}
+				}
+			},
+			"delete": {
+				"summary": "Atualizando Produtor",
+				"security": [
+					{
+						"bearerAuth": []
+					}
+				],
+				"description": "Rota responsável por deletar um determinado produtor",
+				"tags": ["Producers"],
+				"parameters": [
+					{
+						"name": "id",
+						"in": "path",
+						"required": true,
+						"schema": {
+							"type": "integer",
+							"format": "int64",
+							"example": 123
+						},
+						"description": "ID do produtor (Deve ser um número inteiro positivo)"
+					}
+				],
+				"responses": {
+					"204": {
+						"description": "No content"
+					},
+					"406": {
+						"description": "invalid producer id"
+					}
+				}
+			}
+		},
+		"/dashboard": {
+			"get": {
+				"summary": "Obter Dashboard",
+				"security": [
+					{
+						"bearerAuth": []
+					}
+				],
+				"description": "Rota responsável por retornar o dashboard",
+				"tags": ["Dashboard"],
+				"responses": {
+					"200": {
+						"description": "OK"
+					}
+				}
 			}
 		}
 	},
