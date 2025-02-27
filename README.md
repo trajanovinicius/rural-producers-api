@@ -13,6 +13,17 @@ API para gerenciamento de produtores rurais com Repository Pattern, IoC e DI.
 - Yup
 - Winston
 
+## Acesso a documentção swagger
+
+Siga o passo a seguir para obter acesso a documentação do projeto
+
+### 1. Acesse a url:
+
+```
+http://localhost:3000/api-docs
+
+```
+
 ## Como Executar
 
 Siga os passos abaixo para configurar e executar a aplicação localmente:
